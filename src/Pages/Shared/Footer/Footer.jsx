@@ -22,7 +22,7 @@ const Footer = () => {
                 <a className="link link-hover">About us</a>
                 <a className="link link-hover">Terms of Service</a>
                 <a className="link link-hover">Privacy Policy</a>
-                <a className="link link-hover">Address : 4/7 Longbor Street, Chin</a>
+                <a className="link link-hover">Address : 4/7 Longbor Street, China</a>
             </div>
             <div className='mx-10'>
                 <span className="footer-title">OUR POLICY</span>
