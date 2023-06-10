@@ -26,7 +26,7 @@ const Blog = () => {
                 Access token and Refresh Token:
             </p>
             <p>An access token is like a special key that allows a computer program to access certain things, like a locked room or a website. It is given to the program after a user logs in or gives permission.
-            A refresh token is also given to the program at the same time, and it's like a backup key. When the access token gets old and stops working, the program can use the refresh token to get a new access token without bothering the user to log in again. <br />
+            A refresh token is also given to the program at the same time, and it's like a backup key. When the access token gets old and stop working, the program can use the refresh token to get a new access token without bothering the user to log in again. <br />
 
             So, access tokens and refresh tokens are like keys that let computer programs do certain things without needing to ask the user for permission all the time.</p>
             <br />
