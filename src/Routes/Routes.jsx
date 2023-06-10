@@ -14,7 +14,7 @@ import PrivateRoute from "./PrivateRoute";
 
 const router = createBrowserRouter([
     {
-        path: '/',
+        path: '/',,
         element: <Main />,
         children: [
             {
