@@ -20,7 +20,7 @@ const AllToys = () => {
     if (toysData.length > 20) {
       const limitedData = toysData.slice(0, 20);
       setLimit(limitedData);
-      setShowBt(true);
+      setShowBtn(true);
     }
   }, [toysData]);
 
