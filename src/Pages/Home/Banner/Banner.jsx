@@ -8,7 +8,7 @@ const Banner = () => {
         <div data-aos='zoom-in' data-aos-delay='700' className='w-full relative my-5'>
         <img
         style={{height : '85vh'}}
-          className='w-full brightness-65'
+          className='w-full brightness-60'
           src="https://www.wallpaperflare.com/static/550/72/960/princess-guardian-boy-and-girl-anime-wallpaper-preview.jpg"
           alt=""
         />
