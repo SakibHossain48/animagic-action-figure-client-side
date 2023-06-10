@@ -71,7 +71,7 @@ const Blog = () => {
                 <span className="text-blog-ans-color font-extrabold text-xl font-blog-qst-font-family mb-5">Answer:</span>
                 </p>
                 <p  className='font-semibold'> Express Js : </p>
-                <p>Express Js is a special tool that helps computer programmers build websites and apps. It's like a set of building blocks that make it easier to create cool things on the internet. Express Js is popular because it's simple to use and gives programmers a lot of freedom to design their websites or apps in their own way. It can handle things like showing web pages, handling user input, and connecting to databases. Lots of people like using Express.js because it's like having a big toolbox full of useful tools for building websites and apps.</p> <br />
+                <p>Express Js is a special tool that helps computer programmers build websites and apps. It's like a set of building blocks that makes it easier to create cool things on the internet. Express Js is popular because it's simple to use and gives programmers a lot of freedom to design their websites or apps in their own way. It can handle things like showing web pages, handling user input, and connecting to databases. Lots of people like using Express.js because it's like having a big toolbox full of useful tools for building websites and apps.</p> <br />
                 <p  className='font-semibold'> Next Js : </p>
                 <p>Nest JS is a special tool that helps programmers build powerful websites and apps. It's organized, uses TypeScript for safety, and works well with other tools. It's a great choice for building awesome web applications.</p>
           
